@@ -23,6 +23,7 @@
     "extra": {
       "eas": {
         "projectId": "7381462d-cb06-4c6a-931d-3caafc9943e2"
+		"node": "20.16.0"
       }
     }
   }
